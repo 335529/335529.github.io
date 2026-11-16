@@ -13,7 +13,7 @@ expertise=Project Management
 
 education=Bilkent University, Turkey
 
-email=efesnyvgmail.com
+email=efesnyv@gmail.com
 linkedin=
 
 about1
