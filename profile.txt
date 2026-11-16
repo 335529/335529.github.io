@@ -4,9 +4,9 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Efe Şenyuva
+name=Efe Senyuva
 
-title1=Best tennis player (All times)
+title1=Best Tennis Coach (All times)
 
 title2=
 expertise=Project Management
